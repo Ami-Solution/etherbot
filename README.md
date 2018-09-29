@@ -10,7 +10,7 @@
 &nbsp;[![ßtesting TokenStore](https://img.shields.io/badge/ßtesting-TokenStore-yellow.svg)](https://token.store/trade/0x949bed886c739f1a3273629b3320db0c5024c719)
 &nbsp;[![αtesting EthenMarket](https://img.shields.io/badge/αtesting-ethenmarket-lightgrey.svg)](https://ethen.market/949bed886c739f1a3273629b3320db0c5024c719)&nbsp;[![ßtesting AmisDex](https://img.shields.io/badge/ßtesting-amisdex-lightblue.svg)](https://amisdex.github.io/amis-exchange-www)
 
-What is Amis LineEtherBot?
+What is Amis Line Wallet ?
 
 # Amis Line Wallet
  Amis Line Wallet is a simple Mobile Dapp which uses Line Messaging API. You can inquire the balance, issue invoices and make payment with AMIS ERC20 Token and ETH.
@@ -20,7 +20,7 @@ What is Amis LineEtherBot?
  * Check balance : https://impartial-ellipse.glitch.me/accountinfo.html
  * Manage invoice(s) : https://impartial-ellipse.glitch.me/invoice
  * Make transfer : https://impartial-ellipse.glitch.me/transfer
-  * Using the Line Messaging API, you can get Ethereum's balance or send money from the Line talk screen.
+ * Using the Line Messaging API, you can get Ethereum's balance or send money from the Line talk screen.
  
  <img align="left" src="https://camo.qiitausercontent.com/d6ebaf6a8bae3b4555e50340ab233c122a3a86c1/68747470733a2f2f707261676d612d63757272792e636f6d2f77702f77702d636f6e74656e742f75706c6f6164732f323031382f30372f39363038636465383064333161656433623736656632623665363562653965642d312e6a7067" alt="HLD" width="100"/>
  
